@@ -177,15 +177,13 @@ const experiences = [
 
 const quotes = [
   {
-    quote:
-      "A true master is an eternal student.",
+    quote: "A true master is an eternal student.",
     name: "Master Yi",
     designation: "Ionian Blademaster",
     image: masteryi,
   },
   {
-    quote:
-    "I don't stop when I'm tired, I stop when I'm done.",
+    quote: "I don't stop when I'm tired, I stop when I'm done.",
     name: "David Goggins",
     designation: "Retired Navy SEAL",
     image: davidgoggins,
@@ -219,11 +217,10 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/TeeChenxing/Placeholder",
+    source_code_link: "https://github.com/TeeChenxing/Portfolio-Website",
   },
   {
     name: "Flight Navigation",
-    // https://www.youtube.com/watch?v=jp4YbWVzawY
     description:
       "An app that is built using Python to model flight dynamics, control and nagivation systems for an aircraft. Plan to add space flight modeling in the future.",
     tags: [

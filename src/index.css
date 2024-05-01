@@ -97,13 +97,13 @@ h6 {
   background: #ffffff; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #cbc3e3,
-    #434343
+    #606060,
+    #cbc3e3
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #cbc3e3,
-    #434343
+    #606060,
+    #cbc3e3
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 

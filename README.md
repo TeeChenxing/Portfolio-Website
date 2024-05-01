@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center" style="text-decoration: underline cyan"><a href="https://teera.dev/" target="_blank"><b>My Developer Portfolio</b></a></h3>
+  <h3 align="center"><a href="https://teera.dev/" target="_blank"><b>My Developer Portfolio</b></a></h3>
 
   <div align="center">
     Inspired by <a href="https://www.edwardh.io/" target="_blank"><b>Ed Hinrichsen</b></a>.

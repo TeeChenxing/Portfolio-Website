@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=fadadd" alt="tailwindcss" />
   </div>
   <br />
-    <img src="https://i.imgur.com/T72Xl00.gif" alt="Project Banner">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7d50576-6a97-44f8-a3a1-c544781792c6/dhbngss-b65cbd4a-a071-44bf-9c85-6d5294cb5b91.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U3ZDUwNTc2LTZhOTctNDRmOC1hM2ExLWM1NDQ3ODE3OTJjNlwvZGhibmdzcy1iNjVjYmQ0YS1hMDcxLTQ0YmYtOWM4NS02ZDUyOTRjYjViOTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._r2h2sYg-rtE0lu8sQuOBSUP1iYHvg9UIL9FGQrjr6E" alt="Project Banner">
   <br />
 </div>
 

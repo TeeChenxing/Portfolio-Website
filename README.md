@@ -29,20 +29,21 @@ This repository contains the code needed to run the application _locally_.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-<style>
-  #tech1, #tech2, #tech3, #tech4, #tech5, #tech6, #tech7 {
-    color: white;
-    text-decoration: underline dotted;
-  }
-</style>
-
-- <a href="https://react.dev/" target="_blank" id="tech1"><b>React.js</b></a>
-- <a href="https://tailwindcss.com/" target="_blank" id="tech2"><b>TailWindCSS</b></a>
-- <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" id="tech3"><b>React Three Fiber</b></a>
-- <a href="https://github.com/pmndrs/drei" target="_blank" id="tech4"><b>React Three Drei</b></a>
-- <a href="https://threejs.org/" target="_blank" id="tech5"><b>Three.js</b></a>
-- <a href="https://www.emailjs.com/" target="_blank" id="tech6"><b>Email JS</b></a>
-- <a href="https://vitejs.dev/" target="_blank" id="tech7"><b>Vite</b></a>
+<div style="text-decoration: underline dotted;">
+  - <a href="https://react.dev/" target="_blank" id="tech1"><b>React.js</b></a>
+  <br>
+  - <a href="https://tailwindcss.com/" target="_blank" id="tech2"><b>TailWindCSS</b></a>
+  <br>
+  - <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank" id="tech3"><b>React Three Fiber</b></a>
+  <br>
+  - <a href="https://github.com/pmndrs/drei" target="_blank" id="tech4"><b>React Three Drei</b></a>
+  <br>
+  - <a href="https://threejs.org/" target="_blank" id="tech5"><b>Three.js</b></a>
+  <br>
+  - <a href="https://www.emailjs.com/" target="_blank" id="tech6"><b>Email JS</b></a>
+  <br>
+  - <a href="https://vitejs.dev/" target="_blank" id="tech7"><b>Vite</b></a>
+</div>
 
 ## <a name="features">🔋 Features</a>
 

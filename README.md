@@ -110,7 +110,7 @@ Watch this [YouTube tutorial](https://www.youtube.com/watch?v=NgWGllOjkbs) to un
   <img src="https://i.imgur.com/7XZgp2b.png"/>
   <br>
   <span>Your Template ID:</span>
-  <img src="https://i.imgur.com/7XZgp2b.png"/>
+  <img src="https://i.imgur.com/ojnBje5.png"/>
   <br>
   <span >Your Public Key:</span>
   <img src="https://i.imgur.com/RbM4d1I.png/"/>

@@ -82,8 +82,8 @@ Install the project dependencies using npm:
 npm install
 ```
 
-If you encounter dependecy errors, it is most likely due to the react modules being too new since some of
-the react modules require older dependecies. Try:
+If you encounter dependecy errors, it is most likely due to the react modules version being too new since some of
+the modules require older dependecies. Try:
 
 ```bash
 npm install --legacy-peer-deps
@@ -126,7 +126,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-Models and Assets used in the project can be found in:
+Models and assets used in the project can be found in:
 
 ```diff
 ./src/assets

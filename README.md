@@ -106,13 +106,13 @@ Replace the placeholder values with your actual EmailJS credentials. You can obt
 Watch this [YouTube tutorial](https://www.youtube.com/watch?v=NgWGllOjkbs) to understand how to create an account and template.
 
 <h2>
-  <span style="color: orange;">Your Service ID:</span>
+  <span>Your Service ID:</span>
   <img src="https://i.imgur.com/7XZgp2b.png"/>
   <br>
-  <span style="color: orange;">Your Template ID:</span>
+  <span>Your Template ID:</span>
   <img src="https://i.imgur.com/7XZgp2b.png"/>
   <br>
-  <span style="color: orange;">Your Public Key:</span>
+  <span >Your Public Key:</span>
   <img src="https://i.imgur.com/RbM4d1I.png/"/>
 </h2>
 

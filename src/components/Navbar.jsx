@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import { my_logo, menu, close } from "../assets";
+import { home, menu, close } from "../assets";
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -25,7 +25,7 @@ const Navbar = () => {
           }}
         >
           {/* comment */}
-          <img src={my_logo} alt="logo" className="w-10 h-10 object-contain" />
+          <img src={home} alt="logo" className="w-10 h-10 object-contain" />
           <a className="font-bold flex hover:text-white">
             Teera | SWE
           </a>

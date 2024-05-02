@@ -1,5 +1,5 @@
 // Miscellaneous Files
-import my_logo from "./home.gif";
+import home from "./home.gif";
 import logo from "./logo.svg";
 import github from "./github.gif";
 import menu from "./menu.svg";
@@ -51,7 +51,7 @@ import davidgoggins from "./quotes_profiles/davidgoggins.png";
 import loyalty from "./quotes_profiles/loyalty.gif";
 
 export {
-  my_logo,
+  home,
   logo,
   python,
   programmer,

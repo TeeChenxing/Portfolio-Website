@@ -10,7 +10,7 @@ const Hero = () => {
         className={`absolute inset-0 top-[120px]  max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-start gap-5`}
       >
         <div>
-          <h1 className={`${styles.heroHeadText}`}>
+          <h1 className={`${styles.heroHeadText}`} data-value="Hi, I'm Tee">
             <span className="light-purple-text-gradient">Hi, I'm </span>
             <a
               href={resume}
@@ -23,7 +23,7 @@ const Hero = () => {
             <span className="light-purple-text-gradient">!</span>
           </h1>
           <p className={"${styles.heroSubText} mt-2 text-white-100"}>
-            Looking for a software job in 2024 😀
+            Looking for a software role in 2024 😀
           </p>
         </div>
       </div>

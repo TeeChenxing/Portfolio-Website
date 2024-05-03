@@ -23,7 +23,7 @@ const Hero = () => {
             <span className="light-purple-text-gradient">!</span>
           </h1>
           <p className={"${styles.heroSubText} mt-2 text-white-100"}>
-            Looking for a software role in 2024 😀
+            Seeking opportunities in software development 😊
           </p>
         </div>
       </div>

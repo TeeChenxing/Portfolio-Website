@@ -24,9 +24,8 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          {/* comment */}
           <img src={home} alt="logo" className="w-10 h-10 object-contain" />
-          <a className="font-bold flex hover:text-white">
+          <a className="font-bold flex hover:text-white" href="/">
             Teera | SWE
           </a>
         </Link>

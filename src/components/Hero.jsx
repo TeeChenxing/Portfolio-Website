@@ -30,7 +30,7 @@ const Hero = () => {
 
       {/* Down button */}
       <div className="absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center">
-        <a href="#about">
+        <a href="#about" aria-label="scroll down">
           <div className="w-[35px] h-[64px] rounded-1xl border-4 border-white flex justify-center items-start p-2">
             <motion.div
               animate={{

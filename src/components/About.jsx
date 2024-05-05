@@ -42,7 +42,7 @@ const About = () => {
           // className="mt-4 text-white text-[17px] max-w-3xl leading-[30px]"
           className="mt-3 text-white text-[17px] max-w-3xl leading-[30px]"
         >
-          My name is Teera Tesharojanasup, though most people simply call me
+          My name is Teera Tesharo, though most people simply call me
           Tee. Currently, I am a student at Northeastern University, majoring in
           Data Science with a minor in Computer Science, set to graduate in
           December 2024. With a 🔥 passion for technology and design, I enjoy

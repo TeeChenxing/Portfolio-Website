@@ -149,9 +149,9 @@ const experiences = [
     ],
   },
   {
-    title: "Data Engineer Co-Op",
-    company_name: "Massachusetts Institute of Technology (MIT)",
-    icon: mit,
+    title: "Software Systems Co-Op",
+    company_name: "Northeastern University",
+    icon: neu,
     iconBg: "#E6DEDD",
     date: "July 2023 - Dec 2023",
     points: [
